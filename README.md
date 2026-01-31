@@ -62,7 +62,7 @@
 ### 🎉 Just for Fun
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl1a2dkYjZkdWxxY2lnbm1oYnR1ZWVvZHFidGd5ajFlMmdxeGQwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLLGj2bYYm2mm6nwVT/giphy.gif/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzl1a2dkYjZkdWxxY2lnbm1oYnR1ZWVvZHFidGd5ajFlMmdxeGQwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gLLGj2bYYm2mm6nwVT/giphy.gif" width="350"/>
 </div>## Yooo!! Wassuuppppp!!! 👋
 
 <!--
